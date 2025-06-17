@@ -15,20 +15,6 @@
   </p>
 
 ---
-## Creation 👨‍💻
-
-Here are some of the projects I've built, showcasing my passion for turning ideas into reality and my expertise in front-end development. Feel free to explore them and provide feedback!
-
--   **[E-commerce Storefront](https://your-ecommerce-demo.vercel.app)**: A modern and responsive e-commerce platform featuring product listings, a shopping cart, and user authentication. Built with **Next.js** for server-side rendering, **React** for interactive UI, and **TailwindCSS** for styling.
-    -   [GitHub Repository](https://github.com/saqibkorai/ecommerce-storefront-repo)
--   **[Interactive To-Do App](https://your-todo-app-demo.netlify.app)**: A feature-rich task management application that allows users to add, delete, mark as complete, and filter tasks. This project showcases my skills in state management with **React Context API** and data persistence using **Supabase**.
-    -   [GitHub Repository](https://github.com/saqibkorai/todo-app-repo)
--   **[Recipe Finder & Planner](https://your-recipe-app-demo.render.com)**: A web application that lets users search for recipes by ingredients, save favorites, and plan weekly meals. It consumes a public API and is developed using **Vanilla JavaScript** for core logic, **HTML5** for structure, and **CSS3** for a clean, intuitive design.
-    -   [GitHub Repository](https://github.com/saqibkorai/recipe-finder-repo)
--   **[Personal Portfolio Website](https://your-portfolio-site.vercel.app)**: My own responsive and visually appealing portfolio site, designed to showcase my projects and skills. Built from scratch with **React** and styled with **MUI (Material-UI)** components to ensure a modern and consistent look.
-    -   [GitHub Repository](https://github.com/saqibkorai/personal-portfolio-repo)
-
----
 
 ## Tech Stack 💻
 
