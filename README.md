@@ -2,7 +2,7 @@
 
 **`Front-End Web Developer`**
 
-A dedicated **Front-End Web Developer** passionate about crafting engaging digital solutions. I love creating new things ⚡ and excel at transforming ideas into responsive, interactive, and visually appealing web applications. Always eager to learn, build, and contribute to impactful projects that push the boundaries of user experience.
+Passionate Front-End Developer crafting responsive, interactive ⚡  and visually engaging web experiences.
 
 #
 
