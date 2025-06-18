@@ -6,7 +6,7 @@ A dedicated **Front-End Web Developer** passionate about crafting engaging digit
 
 #
 
-<a href="https://github.com/saqibkorai"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZjeDE5cWZuc3B6cm45YXp6dXlwNzR1czlycTdxN2gzcm1wYXRjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="right" width="300" height="150"/> </a>
+
 
 ### 🚀 More about me
 
