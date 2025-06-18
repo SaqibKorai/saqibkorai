@@ -1,4 +1,4 @@
-# 💻  Saqib Korai
+# 💻  Saqib Korai
 
 **`Front-End Web Developer`**
 
@@ -10,8 +10,9 @@ A dedicated **Front-End Web Developer** passionate about crafting engaging digit
 
 ### 🚀 More about me
 
-- 🌱 I’m currently focusing on **complementary full-stack concepts and advanced     frontend techniques**.
+- 🌱 I’m currently focusing on **complementary full-stack concepts and advanced frontend techniques**.
 - 👨‍💻 My GitHub profile: **<a href="https://github.com/saqibkorai/" target="_blank">Saqib's GitHub</a>**
+- 📫 How to reach me: **aqib12u@gmail.com**
 - ⚡ Fun fact **I am passionate about continuous learning & collaboration, focusing on scalable, user-centric solutions.**
 
 ---
@@ -21,7 +22,7 @@ A dedicated **Front-End Web Developer** passionate about crafting engaging digit
 ### 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -68,13 +69,8 @@ A dedicated **Front-End Web Developer** passionate about crafting engaging digit
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibkorai&theme=jolly&hide_border=true" alt="Saqib's GitHub Streaks" /></td>
-  </tr>
-</table>
-<table>
-<tr>
-<td><img src="https://profile-counter.glitch.me/saqibkorai/count.svg" alt="Profile Views"/></td>
-</tr>
-</table>
+| <a href="https://github.com/saqibkorai/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saqibkorai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saqib's GitHub Stats" /></a> | <a href="https://github.com/saqibkorai/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibkorai&layout=compact&theme=buefy&hide_border=true" alt="Saqib's Top Languages" /></a> |
+| ------------- | ------------- |
+
+
+
