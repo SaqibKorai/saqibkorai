@@ -2,10 +2,11 @@
 <p align="center"><strong>Front-End Web Developer</strong></p>
 <p align="center">Crafting responsive, interactive ⚡ and visually engaging web experiences.</p>
 <p align="center"><em>Design. Code. Optimize. Repeat.</em></p>
+
 <p align="center">
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/View Portfolio-333333?style=flat-square&logoColor=white"/>
-</a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/View Portfolio-333333?style=flat-square&logoColor=white"/>
+  </a>
 </p>
 
 <h2 align="center">🧠 About Me</h2>
@@ -54,7 +55,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saqibkorai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -74,3 +74,5 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
+<p align="center"><sub>Made with ❤️ by Saqib Korai</sub></p>
