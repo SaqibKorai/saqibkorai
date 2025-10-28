@@ -10,12 +10,12 @@ Passionate Front-End Developer crafting responsive, interactive ⚡  and visuall
 
 * 🌱 I’m currently focusing on **complementary full-stack concepts and advanced frontend techniques**.
 * 👨‍💻 My GitHub profile: **<a href="https://github.com/saqibkorai/" target="_blank">Saqib's GitHub</a>**
-* 📩 How to reach me: **[aqib12u@gmail.com](mailto:aqib12u@gmail.com)**
+* 📫 How to reach me: **[aqib12u@gmail.com](mailto:aqib12u@gmail.com)**
 * ⚡ Fun fact **I am passionate about continuous learning & collaboration, focusing on scalable, user-centric solutions.**
 
 ---
 
-### 🧮 Tech Stack
+### 🧰 Tech Stack
 
 ### 🌐 Frontend
 
@@ -64,14 +64,13 @@ Passionate Front-End Developer crafting responsive, interactive ⚡  and visuall
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqibkorai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saqib's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibkorai&layout=compact&theme=buefy&hide_border=true" alt="Saqib's Top Languages" />
+  <a href="https://github.com/saqibkorai/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saqibkorai&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=2" alt="Saqib's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saqibkorai&theme=buefy&hide_border=true" alt="Saqib's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqibkorai&theme=tokyo-night&hide_border=true" alt="Saqib's GitHub Contribution Graph" />
+  <a href="https://github.com/saqibkorai/">
+    <img align="center" src="https://github-readme-streak-stats.demolab.com?user=saqibkorai&theme=tokyonight&hide_border=true&v=2" alt="Saqib's GitHub Streak" />
+  </a>
 </p>
