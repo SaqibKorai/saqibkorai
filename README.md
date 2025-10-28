@@ -65,12 +65,12 @@ Passionate Front-End Developer crafting responsive, interactive ⚡  and visuall
 
 <p align="center">
   <a href="https://github.com/saqibkorai/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saqibkorai&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=2" alt="Saqib's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saqibkorai&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=3" alt="Saqib's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/saqibkorai/">
-    <img align="center" src="https://github-readme-streak-stats.demolab.com?user=saqibkorai&theme=tokyonight&hide_border=true&v=2" alt="Saqib's GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=saqibkorai&theme=tokyonight&hide_border=true&v=3" alt="Saqib's GitHub Streak" />
   </a>
 </p>
