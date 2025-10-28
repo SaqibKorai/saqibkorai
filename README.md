@@ -70,6 +70,8 @@ Passionate Front-End Developer crafting responsive, interactive ⚡  and visuall
 ### 📊 GitHub Stats
 
 | <a href="https://github.com/saqibkorai/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saqibkorai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saqib's GitHub Stats" /></a> | <a href="https://github.com/saqibkorai/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibkorai&layout=compact&theme=buefy&hide_border=true" alt="Saqib's Top Languages" /></a> |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibkorai&theme=buefy&hide_border=true" alt="Saqib's GitHub Streak" />
+
 | ------------- | ------------- |
 
 
