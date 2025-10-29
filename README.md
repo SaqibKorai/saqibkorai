@@ -75,4 +75,3 @@
   </a>
 </p>
 
-<p align="center"><sub>Made with ❤️ by Saqib Korai</sub></p>
